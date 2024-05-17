@@ -21,7 +21,7 @@ Sou estudante de 20 anos da Universidade Federal do Cariri (UFCA), cursando o 7Â
 
 - [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:cvanessamatos@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camilavanessa.matos) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/camila-vanessa-m-03a12a136) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-vanessa-matos/) 
 
 ## EstatÃ­sticas do GitHub
 

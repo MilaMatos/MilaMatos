@@ -2,12 +2,12 @@
 
 ## Sobre Mim
 
-Sou estudante de 20 anos da Universidade Federal do Cariri (UFCA), cursando o 7º semestre de Ciência da Computação. Minha paixão está na área de Inteligência Artificial e Aprendizado de Máquina.
+Sou estudante de 21 anos da Universidade Federal do Cariri (UFCA), cursando o 8º semestre de Ciência da Computação. Minha paixão está na área de Inteligência Artificial e Aprendizado de Máquina.
 
 ## Experiência e Atividades
 
-- 🎓 Atualmente sou bolsista de iniciação científica na área de Processamento de imagens.
-- 👩‍🏫 Anteriormente, fui monitora da disciplina de Probabilidade e Estatística.
+- 🎓 Atualmente estagiária na área de engenharia de dados.
+- 👩‍🏫 Anteriormente, fui monitora da disciplina de Probabilidade e Estatística e bolsista de iniciação científica na área de Processamento de imagens
 - 💻 Desenvolvi diversos projetos em linguagens como C, Java, React Native e, principalmente, Python.
   
 
@@ -16,6 +16,7 @@ Sou estudante de 20 anos da Universidade Federal do Cariri (UFCA), cursando o 7�
 - 🤖 Inteligência Artificial
 - 📊 Aprendizado de Máquina
 - 🌐 Ciência de Dados
+- ⚙️ Engenharia de Dados
 
 ## Contato
 

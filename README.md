@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na UFCA com foco no desenvolvimento de soluções de dados de ponta a ponta, atuando na intersecção entre **Engenharia de Dados**, **IA Generativa** e **Machine Learning**. 
 
-Atualmente, aplico meu conhecimento como Engenheira de Dados na **Bulk Consulting**, onde construo pipelines de dados automatizados e desenvolvo aplicações de IA para resolver problemas de negócio complexos.
+Atualmente, aplico meu conhecimento como Engenheira de Dados na Bulk Consulting, onde atuo na transformação digital de processos, desenvolvo soluções de automação de dados e aplicações de IA para resolver problemas de negócio complexos.
 
 ---
 

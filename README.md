@@ -34,7 +34,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades. Recomendo fixá-l
       <strong>Cloud & Data Engineering</strong>
       <ul>
         <li>AWS (S3, EC2)</li>
-        <li>Apache Airflow [cite: 11]</li>
+        <li>Apache Airflow</li>
         <li>Apache Spark (PySpark)</li>
         <li>Apache Kafka</li>
         <li>Docker</li>

@@ -64,11 +64,5 @@ Aqui estão alguns projetos que demonstram minhas habilidades. Recomendo fixá-l
 <p>
   <a href="mailto:cvanessamatos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/camila-vanessa-matos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[blob:https://github.com/6e80d439-0eec-467c-b846-9c716dbd64bb]"><img src="https://img.shields.io/badge/Baixe_meu_Currículo-FF5733?style=for-the-badge&logo=Acrobat&logoColor=white" /></a>
+  <a href="[https://drive.google.com/file/d/1AypNMdMRYAxy0CbkuWZSkhnXgkIEOX6x/view?usp=sharing]"><img src="https://img.shields.io/badge/Baixe_meu_Currículo-FF5733?style=for-the-badge&logo=Acrobat&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilaMatos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
